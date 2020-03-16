@@ -10,8 +10,6 @@ python main.py [options]
 
 
 
-
-
 python main.py -h
 usage: A Command Line Calculator.
         Author - Abhinn Vyas [-h] [-a num1 num2]
